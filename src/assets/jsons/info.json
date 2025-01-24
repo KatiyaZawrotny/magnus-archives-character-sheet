@@ -1,0 +1,142 @@
+{
+    "Bold": {
+        "name": "Bold",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Brave": {
+        "name": "Brave",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Caring": {
+        "name": "Caring",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Cautious": {
+        "name": "Cautious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Cheerful": {
+        "name": "Cheerful",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Cynical": {
+        "name": "Cynical",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Enigmatic": {
+        "name": "Enigmatic",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Energetic": {
+        "name": "Energetic",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Fastidious": {
+        "name": "Fastidious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Fearless": {
+        "name": "Fearless",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Ferocious": {
+        "name": "Ferocious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Hopeful": {
+        "name": "Hopeful",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Inquisitive": {
+        "name": "Inquisitive",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Intimidating": {
+        "name": "Intimidating",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Likeable": {
+        "name": "Likeable",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Muscular": {
+        "name": "Muscular",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Nervous": {
+        "name": "Nervous",
+        "description": "placeholder",
+        "skills": []
+    },
+    "NoNonsense": {
+        "name": "NoNonsense",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Obsessive": {
+        "name": "Obsessive",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Pretentious": {
+        "name": "Pretentious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Quick": {
+        "name": "Quick",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Ruthless": {
+        "name": "Ruthless",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Scholarly": {
+        "name": "Scholarly",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Smart": {
+        "name": "Smart",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Sturdy": {
+        "name": "Sturdy",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Superstitious": {
+        "name": "Superstitious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Suspicious": {
+        "name": "Suspicious",
+        "description": "placeholder",
+        "skills": []
+    },
+    "TechSavvy": {
+        "name": "TechSavvy",
+        "description": "placeholder",
+        "skills": []
+    }
+}

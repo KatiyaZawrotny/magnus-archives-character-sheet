@@ -1,0 +1,22 @@
+{
+    "Investigator": {
+        "name": "Investigator",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Protector": {
+        "name": "Brave",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Elocutionist": {
+        "name": "Caring",
+        "description": "placeholder",
+        "skills": []
+    },
+    "Occultist": {
+        "name": "Caring",
+        "description": "placeholder",
+        "skills": []
+    }
+}

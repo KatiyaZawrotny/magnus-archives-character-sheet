@@ -1,0 +1,99 @@
+.statBox {
+    padding: 6px;
+    width: 29%;
+    box-shadow: 0px 0px 5px 2px #e9e9eb;
+}
+
+.statGridBox {
+    display: grid;
+    grid-template-areas:
+        "statNameBox statNameBox"
+        "mainBox mainBox"
+        "subBoxA subBoxB";
+}
+
+.statNameBox {
+    grid-area: statNameBox;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+
+.mainBox {
+    grid-area: mainBox;
+    height: 10vh;
+    border-bottom: solid 0.5px #e9e9eb;
+}
+
+.mainBoxLevel {
+    grid-area: mainBox;
+    height: 6vh;
+}
+
+.subBoxA {
+    grid-area: subBoxA;
+    height: 6vh;
+}
+
+.subBoxB {
+    grid-area: subBoxB;
+    height: 6vh;
+}
+
+.statBoxContent {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 70% 20%;
+}
+.statBoxContentLevel {
+    width: 100%;
+    height: 100%;
+}
+
+.statBoxContent p {
+    margin: 0;
+    text-align: center;
+}
+
+/* .subStat p,
+.statLabel p {
+    margin: 0;
+} */
+
+
+
+/* Stat base */
+.stat {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+    width: 50%;
+    margin: 3px;
+}
+
+.mainStat {
+    height: 90%;
+}
+
+.mainStat p {
+    font-size: 30px;
+}
+
+.subStat p {
+    margin: 0;
+}
+
+.label {
+    margin: 0;
+}
+
+.subLabel p {
+    font-size: 10px;
+    text-align: center;
+}
+
+.border {
+    border: 1px solid black;
+}
